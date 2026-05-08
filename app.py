@@ -16,5 +16,8 @@ if st.button('Mostrar histograma'):
 # botão scatter
 if st.button('Mostrar gráfico de dispersão'):
     st.write('Preço vs Odômetro')
-    fig = px.scatter(car_data, x="odometer", y="price")
+    fig = px.scatter(car_data, 
+                     x="odometer", 
+                     y="price"
+                     )
     st.plotly_chart(fig, use_container_width=True)
