@@ -1,5 +1,5 @@
-##  Aplicação online
+##  Vehicles Insights Dashboard
 
-Aplicação web interativa para análise de dados de anúncios de veículos.
+Interative web application developed with Streamlit for vehicle data analysis and visualization.
 
-Acesse aqui: https://vehicles-dashboard-ru1r.onrender.com
+Link for access: https://vehicles-dashboard-ru1r.onrender.com
